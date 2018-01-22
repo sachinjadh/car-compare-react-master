@@ -1,0 +1,83 @@
+{
+  "products": [{
+      "id": "1",
+      "name": "Porsche",
+      "image": "http://www.porscheownersmanuals.com/manual/2014-panamera/img/bg_ext.jpg",
+      "price": "$75000",
+      "colors": ["blue"],
+      "condition": "New",
+      "mileage": "40000",
+      "description": "2016"
+    },
+    {
+      "id": "2",
+      "name": "BMW",
+      "image": "https://s.aolcdn.com/hss/storage/midas/9bce3eecfb27c69a58cc7f9ff4698bc2/205184936/P90251036_highRes_the-new-bmw-m4-cs-04.jpg",
+      "price": "$23000",
+      "colors": ["red"],
+      "condition": "Used",
+      "mileage": "40000",
+      "description": "2015"
+    },
+    {
+      "id": "3",
+      "name": "Mercedes",
+      "image": "http://images.car.bauercdn.com/pagefiles/3927/mercedes_c_class.jpg",
+      "price": "$45000",
+      "colors": ["blue"],
+      "condition": "Used",
+      "mileage": "40000",
+      "description": "2017"
+    },
+    {
+      "id": "4",
+      "name": "Audi",
+      "image": "https://i.pinimg.com/736x/56/e2/6b/56e26b610f2250664c225fbb618e57a3--future-car-my-future-husband.jpg",
+      "price": "$35000",
+      "colors": ["orange"],
+      "condition": "New",
+      "mileage": "40000",
+      "description": "2016"
+    },
+    {
+      "id": "5",
+      "name": "Subaru",
+      "image": "http://st.motortrend.com/uploads/sites/5/2014/03/2015-Subaru-WRX-STI-front-three-quarters.jpg",
+      "price": "$43000",
+      "colors": ["blue"],
+      "condition": "Used",
+      "mileage": "40000",
+      "description": "2017"
+    },
+    {
+      "id": "6",
+      "name": "Cadillac",
+      "image": "https://icdn5.digitaltrends.com/image/2016-cadillac-cts-front-full-1500x1000.jpg?ver=1",
+      "price": "$64000",
+      "colors": ["red"],
+      "condition": "Used",
+      "mileage": "40000",
+      "description": "2015"
+    },
+    {
+      "id": "7",
+      "name": "Bentley",
+      "image": "http://st.motortrend.com/uploads/sites/10/2016/04/2016-Bentley-Continental-GT-Speed-coupe-front-three-quarters-in-motion-03.jpg",
+      "price": "$56000",
+      "colors": ["blue"],
+      "condition": "New",
+      "mileage": "40000",
+      "description": "2017"
+    },
+    {
+      "id": "8",
+      "name": "Dodge",
+      "image": "http://st.motortrend.com/uploads/sites/10/2016/09/2017-Dodge-Challenger-SRT-Hellcat-front-three-quarter-in-motion-01.jpg",
+      "price": "$50000",
+      "colors": ["blue"],
+      "condition": "New",
+      "mileage": "40000",
+      "description": "2016"
+    }
+  ]
+}
